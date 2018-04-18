@@ -1,0 +1,5 @@
+Hello Marvin
+Principle:		100
+Interest Rate:	5%
+Loan Term:		30
+Mortgage:		$0.536822

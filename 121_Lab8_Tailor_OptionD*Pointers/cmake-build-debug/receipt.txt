@@ -1,0 +1,5 @@
+Marvin
+Total shares:			200
+Commission:				2%
+Total amount:			$5100
+Net worth in X years:	$16217

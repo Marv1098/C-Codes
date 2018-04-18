@@ -1,0 +1,6 @@
+Hello Marvin Tailor:
+-------------------------------------------------------------------------------------
+Principle:                                        10000
+Interest rate:                                    12%
+Saving period(in month):                          80
+Net worth after 6 years:                          49980

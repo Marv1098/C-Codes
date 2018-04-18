@@ -1,0 +1,3 @@
+/Users/marvin/Desktop/121_Lab7_Tailor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/marvin/Desktop/121_Lab7_Tailor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marvin/Desktop/121_Lab7_Tailor/cmake-build-debug/CMakeFiles/121_Lab7_Tailor.dir

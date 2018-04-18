@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/marvin/Desktop/121_Lab7_Tailor/121_Lab7_Tailor.cpp
+iostream
+-
+fstream
+-
+cmath
+-
+vector
+-
+iomanip
+-
+

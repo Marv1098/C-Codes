@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/121_Lab7_Tailor.dir/121_Lab7_Tailor.cpp.o  -o 121_Lab7_Tailor 
